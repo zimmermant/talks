@@ -2,6 +2,9 @@
 
 [PICUP Website at gopicup.org](https://www.compadre.org/picup/)
 
+## PICUP "Road Show"
+To arrange for PICUP to come to your department contact Kelly Roos at [rooster@bradley.edu](mailto:rooster@bradley.edu ) 
+
 ## Reports
 
 [Joint Task Force on Undergraduate Physics Programs Report](http://www.compadre.org/jtupp/)
